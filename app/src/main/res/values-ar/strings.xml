@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="contries">
+        <item>أفغانستان</item>
+        <item>البانيا</item>
+        <item>الجيرا</item>
+        <item>اندورا</item>
+        <item>انجولا</item>
+
+
+
+    </string-array>
+
+
+
+</resources>

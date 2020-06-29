@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Auto Complete</string>
+    <string name="select_a_county">Select a county</string>
+    <string name="countries">Countries</string>
+    <string name="dialog">Dialog</string>
+    <string-array name="contries">
+        <item>Afganistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+
+
+
+    </string-array>
+</resources>
